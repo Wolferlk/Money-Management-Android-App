@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Finger</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="selected_item">Select Bank Account:</string>
+    <string name="add">Add</string>
+    <string name="xxx_xxx">XXX XXX</string>
+    <string name="lkr">LKR</string>
+    <string name="amount_add_to">Amount Add to</string>
+    <string name="cash">Cash</string>
+    <string name="debit">Debit</string>
+    <string name="saving">saving</string>
+    <string name="note">Note</string>
+    <string name="take_bill_photo">Take bill Photo</string>
+    <string name="add_from_gallery">Add From Gallery</string>
+    <string name="currency_calculator">Currency Calculator</string>
+    <string name="_1">1</string>
+    <string name="usd">USD</string>
+    <string name="LKR1">LKR</string>
+    <string name="_315">315</string>
+    <string name="convert">Convert</string>
+    <string name="from">From</string>
+    <string name="expense">Expense</string>
+    <string name="java_class_fee">Java Class Fee</string>
+    <string name="take_bill_photo1">Take Bill Photo</string>
+    <string name="add_from_gallery2">Add from Gallery</string>
+    <string name="_5_200">5 200</string>
+    <string name="debit1">Debit</string>
+    <string name="cash1">Cash</string>
+    <string name="saving1">saving</string>
+    <string name="lkr2">LKR</string>
+    <string name="expense_to">Expense to</string>
+    <string name="transaction">Transaction</string>
+    <string name="all_income_and_outgoing_money_transaction">All Income and Outgoing Money Transaction</string>
+    <string name="_54_000">54 000</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="last_30_days_expenses_lkr">Last 30 days Expenses : LKR</string>
+    <string name="lkr55">LKR</string>
+    <string name="add_fund">+ Add Fund</string>
+    <string name="_180_000">180 000</string>
+    <string name="expenses">- Expenses</string>
+    <string name="cash500">Cash</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="debit_card">Debit Card</string>
+    <string name="lkr_10_000">LKR 10 000</string>
+    <string name="lkr_10_00054">LKR 10 000</string>
+    <string name="lkr_10_000456">LKR 10 000</string>
+    <string name="paypal">Paypal</string>
+    <string name="savings">Savings</string>
+    <string name="lkr_10_000789456">LKR 10 000</string>
+    <string name="lkr_10_00045">LKR 10 000</string>
+    <string name="lkr456789">LKR 10 000</string>
+    <string name="phone_number_username_or_email">Phone number,username or email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="forget_password">Forget password</string>
+    <string name="dont_t_have_an_account">Dont\'t Have an Account ?</string>
+    <string name="moble_number_or_email">Moble Number or Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="passeword">Passeword</string>
+    <string name="sign_up">Sign up</string>
+    <string name="by_signing_up_you_agree_to_our_terms_data_policy_and_cookies_policy">By signing up, you agree to our Terms , Data Policy and Cookies Policy .</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="accounts">Accounts</string>
+    <string name="sampath_bank">Sampath Bank</string>
+    <string name="_4216_89_4501">4216 89** **** *** 4501</string>
+    <string name="lkr_300_000">LKR 300 000</string>
+    <string name="commercial_bank">Commercial Bank</string>
+    <string name="_4216_89_45015">4216 89** **** *** 4501</string>
+    <string name="lkr_500_000">LKR 500 000</string>
+    <string name="add_account">Add account</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="full_name5">Full Name</string>
+    <string name="username3">username</string>
+    <string name="create_new_account5">Create New Account</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="send_login_link">Send Login Link</string>
+    <string name="enter_your_email_phone_or_username_and_we_ll_send_you_a_link_to_get_back_into_your_account">Enter your email, phone, or username and we\'ll send you a link to get back into your account.</string>
+    <string name="trouble_logging_in">Trouble Logging In?</string>
+    <string name="domestic_payments">Domestic Payments</string>
+    <string name="select_bank_account">Select Bank Account:</string>
+    <string name="account_number">Account Number</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="amount">Amount</string>
+    <string name="lkr3">LKR</string>
+    <string name="note2">Note</string>
+    <string name="transfer5">Transfer</string>
+
+    <string-array name="bank">
+        <item>Commercial Bank </item>
+        <item>Sampath Bank</item>
+        <item>BOC Bank</item>
+    </string-array>
+
+
+</resources>
